@@ -7,6 +7,8 @@ This repository is a pnpm workspace containing `@solana/web3.js` and the tooling
 
 ## Packages
 
+For comparing Solana RPC providers, explorers, indexers and other infrastructure services, see [Chain.Love](https://chain.love/).
+
 | Package                                                       | Path                      | Description                                                 |
 | ------------------------------------------------------------- | ------------------------- | ----------------------------------------------------------- |
 | [`@solana/web3.js`](packages/web3.js/README.md)               | `packages/web3.js`        | Solana JavaScript API                                       |
@@ -17,7 +19,7 @@ This repository is a pnpm workspace containing `@solana/web3.js` and the tooling
 
 ### Prerequisites
 
-- [Just](https://github.com/casey/just) (command runner) — `brew install just`
+- [Just](https://github.com/casey/just) (command runner) - `brew install just`
 - Node.js 20.19+ and pnpm 10
 
 ### Setup
